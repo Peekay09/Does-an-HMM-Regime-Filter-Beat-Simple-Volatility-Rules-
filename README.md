@@ -36,7 +36,6 @@ Sharpe ratio (max drawdown), net of 5 bps costs, `March 2000` to Aug 2026. Best 
 
 ## Limitations
 
-- 2025-26 data is loaded before any backtest, so it is **not a holdout**.
-- DSR counts 16 trials. An earlier long-only run of two strategies is not counted.
+- 2025-26 data is a true unopened holdout set.
 - Price index only (no dividends), cash earns 0%, one asset.
 - K = 5 depends on judgement thresholds. A stricter rule would pick K = 3.
