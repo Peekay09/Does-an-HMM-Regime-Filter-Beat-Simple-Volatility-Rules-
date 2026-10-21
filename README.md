@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Notebook](https://img.shields.io/badge/notebook-Jupyter-orange)
-![Status](https://img.shields.io/badge/result-mostly%20negative-lightgrey)
 
 ---
 ## Result
